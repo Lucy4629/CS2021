@@ -19,14 +19,24 @@ int main (void) {
           fscanf(infile, "%d %d", &a, &b);   
           printf("%d %d", a+b, a-b);         
 
+<<<<<<< HEAD
 
           if() {
+=======
+          printf("%d %d %d %d", abs )
+          
+          if(a > b) {
+>>>>>>> b0f9b819169812c30f6d0afb4327b1a8c6e13773
                printf("%d ", a);
           } else {
                printf("%d ", b);
           }
 
+<<<<<<< HEAD
           if() {
+=======
+          if(a == b) {
+>>>>>>> b0f9b819169812c30f6d0afb4327b1a8c6e13773
                printf("%d \n", 1);
           } else {
                printf("%d \n", 0);
