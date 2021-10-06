@@ -23,7 +23,7 @@ int main (void) {
 
           if() {
 =======
-          printf("%d %d %d %d", abs )
+          printf("%d %d %d %d", abs(a-b), a*b, a/b, a%b);
           
           if(a > b) {
 >>>>>>> b0f9b819169812c30f6d0afb4327b1a8c6e13773
